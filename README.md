@@ -5,7 +5,7 @@
 
 🌐 **Live Demo:** https://errorsurendra-invent-manages-app-cnyq5e.streamlit.app/
 
-💻 **GitHub Repository:** https://github.com/errorsurendra/Invent_mang
+💻 **GitHub Repository:** https://github.com/errorsurendra/Invent_manages
 
 ---
 
